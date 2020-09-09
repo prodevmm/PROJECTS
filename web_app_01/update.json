@@ -1,0 +1,15 @@
+{
+  "title": "New update available",
+  "message": "New features are waiting for you. Download now and enjoy.",
+  "download": "https://mm2d3d.xyz/2d3d/app.apk",
+  "playstore": "com.pdvmm.a2d3d",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0.1",
+  "versionCode": 120,
+  "force": true
+}
