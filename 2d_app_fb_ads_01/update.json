@@ -1,7 +1,7 @@
 {
   "title": "New update available",
   "message": "New features are waiting for you. Download now and enjoy.",
-  "download": "https://github.com/prodevmm/PROJECTS/raw/master/debug.apk",
+  "download": "https://raw.githubusercontent.com/prodevmm/PROJECTS/master/2d_app_fb_ads_01/2D_v1.0.1_release.apk",
   "playstore": "com.yewsakatd.twodapp",
   "uninstall": false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [],
     "all": true
   },
-  "versionName": "1.0.0",
-  "versionCode": 113,
+  "versionName": "1.0.1",
+  "versionCode": 120,
   "force": true
 }
