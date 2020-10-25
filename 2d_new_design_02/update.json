@@ -1,0 +1,15 @@
+{
+  "title": "New update available",
+  "message": "New features are waiting for you. Download now and enjoy.",
+  "download": "https://github.com/prodevmm/PROJECTS/raw/master/debug.apk",
+  "playstore": "com.mdevtd.tdsmart",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0.0",
+  "versionCode": 120,
+  "force": true
+}
