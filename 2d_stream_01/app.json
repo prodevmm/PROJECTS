@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "App is expired. Contact the developer to buy."
+  "enabled": false,
+  "message": "App is expired. Contact the developer to buy app."
 }
