@@ -1,0 +1,15 @@
+{
+  "title": "New update available",
+  "message": "New version : 1.0.1\n\nThis update includes bug fixes and improved overall performance. Download now and enjoy.",
+  "download": "https://raw.githubusercontent.com/prodevmm/PROJECTS/master/debug.apk",
+  "playstore": "com.mprodevtd.ndtwod",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0.0",
+  "versionCode": 100,
+  "force": true
+}
